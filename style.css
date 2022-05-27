@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    /* background-color: azure; */
+    background-image:url(./images/umair.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center ;
+    background-size: cover;
+}
+h1{
+    color: black;
+    text-decoration: underline;
+}
+.btn{
+    background-color: rgb(50, 226, 212);
+}
